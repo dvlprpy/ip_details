@@ -1,0 +1,32 @@
+details{
+    display: flex;
+    flex-direction: row;
+}
+th{
+    text-align: left;
+}
+kbd{
+    color:blue;
+}
+strong{
+    display: none;
+}
+#basicMap {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}  
+div.container{
+    width: auto;
+    height: 100%;
+}
+div.ip-brief{
+    height: 60%;
+}
+div.showMapResult{
+    height: 40%;
+    width: 40%;
+}
+#demoMap{
+    border-radius: 5px 10px 5px 10px;
+}
